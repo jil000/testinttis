@@ -2,9 +2,9 @@
 
 
 <!---# Experiment about attention--> 
-# [For **English** click here.](https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/)
+# [For **English** click here.](https://jil000.github.io/testinttis/eng/info)
 <br/>
 
 <!--# Eksperiment om oppmerksomhet-->
-# [For **Norsk** trykk her.](https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/)
+# [For **Norsk** trykk her.](https://jil000.github.io/testinttis/Nor/info)
 <br/>
