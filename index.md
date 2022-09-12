@@ -10,5 +10,5 @@ title: " "
 <br/>
 
 <!--# Eksperiment om oppmerksomhet-->
-# [For **Norsk** trykk her.](https://jil000.github.io/ttis/Nor/info)
+# [For **Norsk** trykk her.](https://jil000.github.io/ttis/nor/info)
 <br/>
