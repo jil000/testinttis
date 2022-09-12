@@ -3,14 +3,14 @@ permalink: /eng/info.html
 title: "engtest"
 ---
 
-###### [norsk](https://jil000.github.io/testinttis/nor/info)
+###### [norsk](https://jil000.github.io/ttis/nor/info)
 ---
 
 # Experiment about decision-making and brain stimulation
 *  This is imporant info about yadah yadah..
 
 ### Kort om eksperimentet: 
-* This experiment uses [transcranial temporal interference stimulation (tTIS)](https://jil000.github.io/testinttis/eng/info/ttis)
+* This experiment uses [transcranial temporal interference stimulation (tTIS)](https://jil000.github.io/ttis/eng/info/ttis)
   * This is a non-invasive brain stimulation (read the above link for more information)
 * The experiment consists of three seperate sessions:
   * During the session you will either receive a fake sham stimulation or a real tTIS-stimulation
