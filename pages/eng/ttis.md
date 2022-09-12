@@ -9,4 +9,4 @@ title: "tTIS"
 # Transcranial Temporal Interference Stimulation (tTIS)
 
 * It's cool
-' Like, **super** cool
+* Like, **super** cool
