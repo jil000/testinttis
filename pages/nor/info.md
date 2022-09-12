@@ -1,5 +1,5 @@
 ---
-permalink: /Nor/info.html
+permalink: /nor/info.html
 title: "nortest"
 ---
 ###### [Hjem](https://jil000.github.io/testinttis/) //// [English?](https://jil000.github.io/testinttis/eng/info) 
@@ -11,7 +11,7 @@ title: "nortest"
 *  dette er info
 
 ### Kort om eksperimentet: 
-* Ved bruk av **funker ikke**[transkraniell temporal interferens stimulering (tTIS)](https://uitpsypro.github.io/1/nor/info/ttis)
+* Ved bruk av [transkraniell temporal interferens stimulering (tTIS)](https://jil000.github.io/testinttis/nor/info/ttis)
   * En ikke-invasive hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
 * Eksperimentet innebærer 3 økter (3 oppmøter):
   * Du vil få enten en falsk stimulering eller en ekte tTIS-stimulering
