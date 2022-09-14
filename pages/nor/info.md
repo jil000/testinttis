@@ -1,6 +1,6 @@
 ---
 permalink: /nor/info.html
-title: "nortest"
+title: "Info Norsk"
 ---
 ###### [English?](https://jil000.github.io/ttis/eng/info) 
 
