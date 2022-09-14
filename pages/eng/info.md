@@ -1,6 +1,6 @@
 ---
 permalink: /eng/info.html
-title: "engtest"
+title: "Info English"
 ---
 
 ###### [norsk](https://jil000.github.io/ttis/nor/info)
@@ -50,6 +50,6 @@ title: "engtest"
 ### Kontakt:
 Hvis du har spørsmål eller ønsker å melde deg som deltaker kan du kontakte en av eksperimentørene:
 
+* Federica Luzzi - [flu015@uit.no](mailto:flu015@uit.no)
 * Jostein Ilvær - [jil000@uit.no](mailto:jil000@uit.no) 
-* Andreas Thommesen - [ath054@uit.no](mailto:ath054@uit.no)
 
