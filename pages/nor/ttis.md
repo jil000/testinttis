@@ -9,4 +9,4 @@ title: "tTIS"
 # Transkraniell Temporal Inteferens Stimulering (tTIS)
 
 * it's cool
-* like, **super** cool
+* like, **super** coolio
