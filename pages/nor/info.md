@@ -20,27 +20,21 @@ title: "Info Norsk"
 * For å kvalifisere til gavekortet på Jekta (400 NOK) må du fullføre alle tre øktene 
 * Testing ved UiT [hus 5, rom 362](https://link.mazemap.com/18tSHnJI)
 
-### Risiko &  bivirkninger:
-* ... **kan** utløse ett epileptisk anfall
-  * MEN dette skjer **svært** sjeldent hos friske voksne
-* Du kan oppleve noen bivirkninger som:
+### Mulige bivirkninger under stimulering:
+  * Prikking
+  * Kløe
   * Hodepine
   * Brennende følelser
   * Hudrødhet
-  * Smerte på hodet
-  * Prikking
-  * Nakkesmerter
+
 
 ### For å være med må du oppnå disse kriteriene:
-* **Må være høyrehendt**
 * Mellom alderen 18 til 50
 * Du bør ha godt eller korrigert syn
 * Kan ikke ha noen nåværende/tidligere psykiske/nevrologiske sykdommer (f.eks. alvorlig depresjon, bipolar lidelse, epilepsi, migrene, alvorlig hodeskade, hjernekirurgi, ADHD)
-* Ikke gravid
-* Ikke historie med epilepsi i (nær) familie 
+* Ikke gravid eller ammende
 * Ikke tar medisiner som påvirker sentralnervesystemet (f.eks. antidepressiva, antiepileptika)
-* Ikke ha metallimplantasjoner (f.eks: pacemaker, cochleaimplantat)
-* Ikke ha elektroniske enheter i kroppen
+* Ikke ha metallimplantasjoner (f.eks: pacemaker, cochleaimplantat) eller andre elektroniske enheter i kroppen
 
 
 
