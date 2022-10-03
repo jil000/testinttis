@@ -7,17 +7,17 @@ title: "Info Norsk"
 ---
 
 # Eksperiment om beslutningstakning og hjernestimulering
-*  dette er info
+
 
 ### Kort om eksperimentet: 
 * Ved bruk av [transkraniell temporal interferens stimulering (tTIS)](https://jil000.github.io/ttis/nor/info/ttis)
   * En ikke-invasive hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
-* Eksperimentet innebærer 3 økter (3 oppmøter):
+* Eksperimentet innebærer 3 oppmøter:
   * Du vil få enten en falsk stimulering eller en ekte tTIS-stimulering
-  * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får for hver økt.
-* En enkelt sesjon varer omtrent en time
+  * Både du, som deltaker, og eksperimentørene **vil** ikke vite hvilken stimulering du får for hver økt.
+* Hver oppmøte varer omtrent en time
 * * Det vil være minimum to dager mellom hver økt
-* For å kvalifisere til gavekortet på Jekta (400 NOK) må du fullføre alle tre øktene 
+* For å kvalifisere til gavekortet på Jekta (300-400 NOK) må du fullføre alle tre øktene 
 * Testing ved UiT [hus 5, rom 362](https://link.mazemap.com/18tSHnJI)
 
 ### Mulige bivirkninger under stimulering:
@@ -38,7 +38,7 @@ title: "Info Norsk"
 
 
 
-#### Hvis du fortsatt er interessert kan du [laste ned og lese samtykket her](vg.no)
+#### Hvis du fortsatt er interessert kan du [laste ned og lese informert samtykke her](samtykkeNOR)
 
 
 ### Kontakt:
