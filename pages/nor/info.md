@@ -38,7 +38,7 @@ title: "Info Norsk"
 
 
 
-#### Hvis du fortsatt er interessert kan du [laste ned og lese informert samtykke her](samtykkeNOR)
+#### Hvis du fortsatt er interessert kan du [laste ned og lese informert samtykke her](https://github.com/jil000/ttis/blob/main/documents/samtykkeNOR.pdf)
 
 
 ### Kontakt:
