@@ -39,7 +39,7 @@ epileptics, etc.). Participants cannot be allergic to lidocaine or other local a
 * No metal implants in your body (pacemaker, cochlear implant etc.), nor any electronic devices in your body.
 
 
-#### If you are interested you can [download the informed consent form here](documents/samtykkeENG.pdf)
+#### If you are interested you can [download the informed consent form here](https://github.com/jil000/ttis/blob/main/documents/samtykkeENG.pdf)
 
 
 ### Contact:
