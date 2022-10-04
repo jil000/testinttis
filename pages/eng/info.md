@@ -16,7 +16,7 @@ title: "Info English"
   * During the session you will either receive a real tTIS-stimulation or a sham stimulation.
   * Neither you or the experimenter will know which stimulation is being used for each session.
 * Each session will take approximately one hour. 
-* * There will be at least 2 days between each session. 
+* There will be at least 2 days between each session. 
 * In order to qualify for the Jekta gift card (300 or 400 NOK) you must complete all 3 sessions. 
 * Testing is done at [house 5, room 362](https://link.mazemap.com/18tSHnJI)
 
