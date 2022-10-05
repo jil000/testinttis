@@ -16,7 +16,7 @@ title: "Info Norsk"
   * Du vil få enten en falsk stimulering eller en ekte tTIS-stimulering
   * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får for hver økt.
 * Hver oppmøte varer omtrent en time
-* * Det vil være minimum to dager mellom hver økt
+* Det vil være minimum to dager mellom hver økt
 * For å kvalifisere til gavekortet på Jekta (300-400 NOK) må du fullføre alle tre øktene 
 * Testing ved UiT [hus 5, rom 362](https://link.mazemap.com/18tSHnJI)
 
