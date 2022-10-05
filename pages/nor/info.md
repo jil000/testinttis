@@ -14,7 +14,7 @@ title: "Info Norsk"
   * En ikke-inngripende hjernestimuleringsprosedyre (trykk på linken over for å lære mer)
 * Eksperimentet innebærer 3 oppmøter:
   * Du vil få enten en falsk stimulering eller en ekte tTIS-stimulering
-  * Både du, som deltaker, og eksperimentørene vil **ikke vite** hvilken stimulering du får for hver økt.
+  * Både du, som deltaker, og eksperimentørene vil ikke vite hvilken stimulering du får for hver økt.
 * Hver oppmøte varer omtrent en time
 * Det vil være minimum to dager mellom hver økt
 * For å kvalifisere til gavekortet på Jekta (300-400 NOK) må du fullføre alle tre øktene 
